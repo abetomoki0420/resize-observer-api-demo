@@ -22,6 +22,8 @@ To use this example, follow these steps:
 
 3. Resize the blue `div` element on the page, and observe the updated width and height values being displayed.
 
+The deployed site is available at: [https://abetomoki0420.github.io/resize-observer-api-demo/](https://abetomoki0420.github.io/resize-observer-api-demo/)
+
 ## Files
 
 - `index.html`: The HTML file that defines the structure of the page and includes the JavaScript code.
